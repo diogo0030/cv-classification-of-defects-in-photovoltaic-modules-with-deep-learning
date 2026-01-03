@@ -5,7 +5,7 @@ This repository contains the implementation of a Deep Learning pipeline for the 
 ## 👥 Authors
 * **Afonso Tomás de Magalhães Mateus** (202204126)
 * **Diogo Soares de Albergaria Oliveira** (202108325)
-
+## Grade: 17.84
 ---
 
 ## 📌 Project Overview
